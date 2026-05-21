@@ -1,0 +1,3 @@
+[workspace]
+members = ["lace_desktop", "lace_gui", "lace_web"]
+resolver = "3"
